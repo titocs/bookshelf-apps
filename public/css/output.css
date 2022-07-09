@@ -816,7 +816,7 @@ video {
   --tw-bg-opacity: 0.75;
 }
 
-.bg-\[url\(\'\/img\/books-header\.png\'\)\] {
+.bg-\[url\(\'\img\/books-header\.png\'\)\] {
   background-image: url('img/books-header.png');
 }
 
